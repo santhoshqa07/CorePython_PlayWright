@@ -1,6 +1,7 @@
 
 name, age, sal = "John",30, 50000.50
 
+
 #Approach1
 print(name, age, sal)
 

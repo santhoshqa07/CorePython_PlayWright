@@ -85,7 +85,7 @@
 #num --> divisible by 3 & but not 2
 #num --> Not divisible by 2 & 3
 
-num=9
+#num=9
 
 # if num%2==0:
 #     if num%3==0:
@@ -102,13 +102,13 @@ num=9
 
 ##short hand if
 
-a,b = 10,20
+# a,b = 10,20
 #
 # if a>b:print("a is greater than b")
 
 ##short hand if else
 
-print("a is greater") if a>b else print("b is greater")
+# print("a is greater") if a>b else print("b is greater")
 
 # and (Logical Operator) with if elif else
 # Find Largest of 3 numbers
@@ -117,16 +117,16 @@ print("a is greater") if a>b else print("b is greater")
 # b>a and b>c b is largest
 # c is largest
 
-a=30
-b=20
-c=40
-
-if a>b and a>c:
-    print("a is Largest")
-elif b>a and b>c:
-    print("b is Largest")
-else:
-    print("C is Largest")
+# a=30
+# b=20
+# c=40
+#
+# if a>b and a>c:
+#     print("a is Largest")
+# elif b>a and b>c:
+#     print("b is Largest")
+# else:
+#     print("C is Largest")
 
 
 #pass

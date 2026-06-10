@@ -2,8 +2,8 @@
 # + - / * // % **
 from operator import truediv
 
-# a=5
-# b=2
+# a=7
+# b=3
 #
 # print(a+b)
 # print(a-b)
