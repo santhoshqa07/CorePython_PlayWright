@@ -32,3 +32,7 @@ def test_handle_dynamic_elements_css(page: Page):
         button=page.get_by_role("button",name=re.compile(r'ST.*'))
         button.click()
         page.wait_for_timeout(2000)
+
+
+
+
